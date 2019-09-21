@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:coreDataDocuments.xcodeproj">
+      location = "self:ahx97CoreDataDocs.xcodeproj">
    </FileRef>
 </Workspace>
